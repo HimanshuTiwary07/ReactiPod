@@ -4,8 +4,7 @@
 
 A Virtual i-pod using React JS.
 
-Tools Used
-
+Tools Used :
 
 Firebase cloud storage (to store songs).
 React JS
